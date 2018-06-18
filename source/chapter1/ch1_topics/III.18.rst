@@ -8,7 +8,7 @@
 a. Do You Need a Teacher?
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Many beginners would like to start learning piano on their own, and there are
+Many beginners would like to start learning pianoon their own, and there are
 valid reasons for this. There are very few good teachers and the poor teachers
 can teach you more bad habits than you can acquire on our own. However, there
 is no question that, for the first 6 months (and probably longer), there is no
@@ -33,6 +33,7 @@ need. Teachers are also helpful in finding the appropriate teaching material.
 Teachers provide a structured learning environment, without which the student
 can end up doing the wrong things and not realize that they are not making any
 progress. In short, teachers are definitely cost effective for beginners.
+For more info -http://www.maestrogoslin.com
 
 .. _III.18.b:
 
